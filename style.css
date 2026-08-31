@@ -55,11 +55,20 @@ button {
 
 
 #save-btn {
+  
   background: #1C7947;
 }
 
 
 #save-el {
+  display:flex;
+flex-wrap: wrap;
+margin:0 auto;
+padding-left:4rem;
+padding-right: .5rem;
+margin-bottom:1rem;
+max-width:55%;
+padding-top:1rem;
   font-weight: bold;
 
 
